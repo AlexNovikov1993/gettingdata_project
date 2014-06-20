@@ -52,7 +52,7 @@ The following variables represents the averages of the means and standard deviat
 
 **13. "avg_tGravityAcc-std()-Y"**
 
-**14. "avg_tGravityAcc-std()-Z" **     
+**14. "avg_tGravityAcc-std()-Z"**     
 
 **15. "avg_tBodyAccJerk-mean()-X"**
 
@@ -88,7 +88,7 @@ The following variables represents the averages of the means and standard deviat
 
 **31. "avg_tBodyGyroJerk-std()-Y"**
 
-**32. "avg_tBodyGyroJerk-std()-Z"  **    
+**32. "avg_tBodyGyroJerk-std()-Z"**    
 
 **33. "avg_tBodyAccMag-mean()"**
 
@@ -156,7 +156,7 @@ The following variables represents the averages of the means and standard deviat
 
 **65. "avg_fBodyBodyGyroMag-mean()"**
 
-**66. "avg_fBodyBodyGyroMag-std()" **  
+**66. "avg_fBodyBodyGyroMag-std()"**  
 
 **67. "avg_fBodyBodyGyroJerkMag-mean()"**
 
