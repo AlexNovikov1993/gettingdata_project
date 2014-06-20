@@ -28,7 +28,7 @@ To obtain the variables that are needed for the purposes of the assignment, we h
 
 **2. "activity"**: Represents activities which each subject performed
 
-The following variables represents the averages of the means and standard deviations from the measures in the raw data. Full description of the original measures are stored at the data set [website](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+The following variables represent the averages of the means and standard deviations from the measures in the raw data. Full description of the original measures are stored at the data set [website](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 **3. "avg_tBodyAcc-mean()-X"**
 
